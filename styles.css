@@ -1,0 +1,17 @@
+body{
+  font-family: sans-serif;
+  display:flex;
+  gap:40px;
+  align-items:center;
+  height:100vh;
+}
+
+.controls{
+  display:flex;
+  flex-direction:column;
+  width:200px;
+}
+
+input{
+  margin-bottom:20px;
+}
